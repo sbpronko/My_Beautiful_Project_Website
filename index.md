@@ -18,17 +18,17 @@ We chose these questions because we believed they would best tell us how student
 Students responded by choosing a number between 1 and 7, or "strongly disagree" to "strongly agree". To make the data easier to read, we transformed it into a histogram that plotted the first 50 responses to each statement.
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="My_Beautiful_Project_Website/static/imgs/combined_plot.png" alt="Image of combined distribution plot. "  width="500"/>
+<img src="static/imgs/combined_plot.png" alt="Image of combined distribution plot. "  width="500"/>
 
 This combined histogram makes it possible for us to compare how students responded to each question, but it's difficult to see the proportion of each response to a single question.
 
 In order to analyze the responses to each individual question, we created three different histograms that plotted the percentage of responses for each number.
 
-<img src="My_Beautiful_Project_Website/static/imgs/histogram1.png" alt="Image of combined distribution plot. "  width="500"/>
+<img src="static/imgs/histogram1.png" alt="Image of combined distribution plot. "  width="500"/>
 
 This histogram shows us that over a quarter of students strongly agreed with the first statement, "I believe that optional pre-lecture videos that prepare students for the content of each lecture would be helpful for my learning".
 
-<img src="My_Beautiful_Project_Website/static/imgs/histogram2.png" alt="Image of combined distribution plot. "  width="500"/>
+<img src="static/imgs/histogram2.png" alt="Image of combined distribution plot. "  width="500"/>
 
 For the second statement, over 30% of students strongly agreed that "in-person lectures should be live streamed so that not everyone is required to attend in-person"!
 
